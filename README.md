@@ -17,3 +17,10 @@
 	- PES 2012​
 	- PES 2011​
 	- PES 5​​
+
+
+Please Read FAQ before use this tool!
+Global Users:
+https://ko-fi.com/post/PESDatabase--Frequently-Asked-Questions-R6R11X3ON7
+Indonesian Users:
+https://ko-fi.com/post/PESDatabase--FAQ-Bahasa-Indonesia-O5O81X0LS8
