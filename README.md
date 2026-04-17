@@ -15,11 +15,13 @@
 - PES 2012​
 - PES 2011​
 - PES 5​
-## System Requirements:
-- OS      : Windows 10 / 11 (64-bit)
-- Runtime : .NET 8.0 Desktop Runtime (x64)
-- RAM     : 4 GB minimum
-- Storage : ~50 MB
+## ⚙️ System Requirements
+| Component | Minimum |
+|-----------|---------|
+| OS | Windows 10 / 11 (64-bit) |
+| Runtime | [.NET 8.0 Desktop Runtime (x64)](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) |
+| RAM | 4 GB |
+| Storage | ~50 MB |
 
 
 ## Please read FAQ before using this tool!
