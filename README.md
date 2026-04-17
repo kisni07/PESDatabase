@@ -1,7 +1,7 @@
 ## PESDatabase Solution Tool
 ### Supported Version:
 - eFootball 2026 (Live Update)​
-- eFootball 2025 (Legacy Update)​
+- eFootball 2025​
 - PES 2021 PC/Mobile​
 - PES 2020​
 - PES 2019​
@@ -15,7 +15,11 @@
 - PES 2012​
 - PES 2011​
 - PES 5​
-
+## System Requirements:
+- OS      : Windows 10 / 11 (64-bit)
+- Runtime : .NET 8.0 Desktop Runtime (x64)
+- RAM     : 4 GB minimum
+- Storage : ~50 MB
 
 
 ## Please read FAQ before using this tool!
