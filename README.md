@@ -1,7 +1,8 @@
 ## PESDatabase Solution Tool
 ### Supported Version:
 - eFootball 2026 (Live Update)​
-- eFootball 2025​
+- eFootball 2025
+- ​eFootball 2024
 - PES 2021 PC/Mobile​
 - PES 2020​
 - PES 2019​
