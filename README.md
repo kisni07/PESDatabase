@@ -1,6 +1,7 @@
 ## PESDatabase Solution Tool
 ### Supported Version:
-- eFootball 2026 (Live Update)​
+- eFootball 2027 (Weekly Live Update)​
+- eFootball 2026
 - eFootball 2025
 - ​eFootball 2024
 - ​eFootball 2023
